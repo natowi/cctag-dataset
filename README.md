@@ -11,3 +11,5 @@ https://github.com/ion1/cctag-gen
 
 Proposed (not supported):
 https://github.com/Misdirected/5-Ring-CCTag-Fiducial
+
+Eval: http://www.josephdegol.com/docs/DeGol_Dissertation_LowRes.pdf
