@@ -1,7 +1,7 @@
 # cctag-dataset
 cctag test dataset
 
-Test dataset for the upcomming CCTAG support in Meshroom 2019.2.
+Test dataset for the upcomming CCTAG support in Meshroom 2020
 
 Meshroom 2019.2 supports CCTAG3 and CCTAG4
 
