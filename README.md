@@ -1,6 +1,6 @@
 # Pinecones CCTAG dataset
 
-This is the demo dataset for the Meshroom CCTAG introduction.
+This is the demo dataset for the Meshroom CCTAG tutorial [WIP].
 
 Meshroom 2020.1 supports CCTAG3 and CCTAG4. This dataset utilizes CCTAG3 which is more robust than CCTAG4.
 
